@@ -1,2 +1,2 @@
-﻿Projects made for the Module 1 of FreeCodeacademy.
-HTML and CSS mostly
+﻿Projects made for ODIN - Development 101
+HTML,CSS and javascript basics
